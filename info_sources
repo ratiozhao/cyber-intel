@@ -1,0 +1,33 @@
+# Sources Outside of China:
+-------------------------
+Krebs on Security: Brian Kreb's personal website, he is very well-respected in the industry
+
+The Hacker News: Summary of info from lots of sources including those on this list
+
+Coalfire: A company focusing on cybersecurity, it consists of a strong team of red-teamers and provides useful cyber-security related information
+
+Fire Eye: Also a commercial company that focuses on cybersecurity. It provides many first-hand information when its team discovers something bad.
+
+CrowdStrike: A newly developed company that provides intrusion detection as well as lots of latest cyber-security technologies. They maintain a list of APTs and they compare attack paterns with MITRE's ATT&CK framework.
+
+ZDNet: ZD stands for Zero-Day. No need to explain further on this.
+
+SANS Security Awareness Training (OUCH Letter): SANS institute is an organization that focuses on different projects related to cyber-security. This is a monthly newsletter that promotes information security and offers different tips.
+
+OWASP projects: OWASP maintains multiple projects that are related to cybersecurity. For example, the SKF (Security Knowledge Framework) project in being maintained and updated on Github. There is also a live Demo available with detailed step-by-step wal-through labs. However, the most well-knwon project by OWASP is its Top 10 list of most critical security risks to web applications.
+
+--------------------------
+# Sources in China:
+
+Tencent Security Response Center(TSRC腾讯安全应急响应中心)：TSRC publishes their findings and experience on their official WeChat account, they provide tips and information on security awareness as well.
+
+SecQuan(圈子社区)：A reputable source of vulnerabilities and red-teaming tools. They also have their own WeChat official account where they publish their findings.
+
+“云技术”微信公众号：A good source for the cloud-computing industry news in mainland China. Their official WeChat account can be found on WeChat.
+
+掌控安全EDU：This is the official WeChat account of a cybersecurity-educational agency in China, they push out some tips on cybersecurity and pen-testing from time to time.
+
+Tencent Security(腾讯安全)：This is the official account of Tencent Security on WeChat. They publish some reports on the cyber-space security industry in China sometime and also introduces their own cybersecurity products.
+
+CNCERT(国家互联网应急中心)：This is the official WeChat account of CNCERT on WeChat. They publish weekly reports on the latest threats and vulnerabilities that are being exploited in mainland China. This is a great source to refer to when operating in China.
+
